@@ -1,0 +1,13 @@
+#book-add-section {
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.book-card {
+    background-color: beige;
+    border-width: 2px;
+    border-style: solid;
+    height:175px;
+    width:150px;
+}
